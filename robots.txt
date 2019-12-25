@@ -1,2 +1,2 @@
 User-agent:*
-Disallow:https://deep265.github.io/GCI/blocked%20page.html
+Disallow:https://deep265.github.io/GCI/dummypage.html
