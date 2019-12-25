@@ -5,11 +5,12 @@ ul li{  background:cyan;
   padding: 5px;
   margin-left: 35px;}
  
- img{height:250px;
- width:250px;
- margin-left: 650px;
- border:solid black;
- border-width:10px;}
+img{display:block;
+margin-left:auto;
+margin-right:auto;
+width:250px;
+height:250px;
+}
  
  th, td {
   padding: 15px;
